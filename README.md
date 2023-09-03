@@ -1,7 +1,7 @@
 # Create Modpack 1.19.2
 This Repository stores everything needed for the installer to successfully execute.
 # Modlist:
-- https://legacy.curseforge.com/minecraft/mc-mods/create
+- https://www.curseforge.com/minecraft/mc-mods/create
 - https://www.curseforge.com/minecraft/mc-mods/create-confectionery
 - https://modrinth.com/mod/create-crystal-clear/
 - https://www.curseforge.com/minecraft/mc-mods/create-deco/
