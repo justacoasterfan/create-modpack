@@ -1,5 +1,8 @@
 # Create Modpack 1.19.2
 This Repository stores everything needed for the installer to successfully execute.
+This includes: 
+      - https://github.com/TeamKun/ForgeCLI
+      - https://files.minecraftforge.net/
 # Modlist:
 - https://www.curseforge.com/minecraft/mc-mods/create
 - https://www.curseforge.com/minecraft/mc-mods/create-confectionery
