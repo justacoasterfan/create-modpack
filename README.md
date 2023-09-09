@@ -35,3 +35,8 @@ This includes:
 - https://www.curseforge.com/minecraft/mc-mods/the-one-probe
 - https://www.curseforge.com/minecraft/mc-mods/butchers-delight
 - https://www.curseforge.com/minecraft/mc-mods/appleskin
+- https://www.curseforge.com/minecraft/mc-mods/automobility
+- https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks
+- https://www.curseforge.com/minecraft/mc-mods/simple-storage-network
+- https://www.curseforge.com/minecraft/mc-mods/configured
+- https://www.curseforge.com/minecraft/mc-mods/controlling
